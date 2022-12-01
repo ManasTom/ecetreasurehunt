@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TREASUREHUNT</title>
+    <script src="functionality.js"></script>
+    <link rel="stylesheet" href="style.css" type="text/css" media="screen">
+
+</head>
+<body>
+
+    <!--base container-->
+    <div class="container">
+        <!--header section-->
+        <div class="header">
+            <div class="title">
+                <h3>TECHFEST 2022</h3>
+            </div>
+
+        </div>
+        <!--header section end-->
+
+
+        <!--body container-->
+        <div class="bodycontainer">
+
+            <!--information box-->
+            
+            <div class="logocontainer">
+                <img width="100%" height="70px" src="assets/logo1.png" alt="">
+
+            </div>
+            <div class="levelbox">
+                <div class="leveltext">
+                    <h4>LEVEL  5 </h4>
+                </div>
+                <div class="welcometext">
+                    <h7>Decode the hints to find the next Passcode</h7>
+                </div>
+            </div>
+
+
+            <!--information box end-->
+
+            <!--media box-->
+            <div class="mediabox">
+                <div>
+                    <h2>HINTS : </h2>
+                </div>
+                
+                <audio controls>
+                    <source src="https://history.aip.org/exhibits/einstein/sound/voice1.mp3">
+                </audio>
+                <br>
+                <img width="100%" height="250px" src="https://assets.thehansindia.com/h-upload/2020/09/15/1600x960_998865-mokshagundam-visvesvaraya.jpg" alt="">
+
+            </div>
+            <!--media box end-->
+
+            <!--quiz container-->
+            <div class="quizcontainer">
+                <div class="questionbox">
+                    <h7>INPUT THE PASSCODE TO ENTER LEVEL 6.</h7>
+                </div>
+                <div class="answerbox">
+                    <input value="Enter code here" onfocus="if (this.value=='Enter code here') this.value='';" type="text" class="ipanswer" id="ipanswerl5">
+                    <label id="errormessage">
+
+                    </label>
+                </div>
+                <div class="submitbox">
+                    <input class="submitbutton" type="button" value="NEXT LEVEL" onclick="ipl5();">
+
+                </div>
+                <!--guidelines section-->
+                <div>
+                    <p>
+                        
+                    </p>
+                </div>
+
+            </div>
+            <!--quiz container end-->
+
+        </div>
+        <!--body container end-->
+
+    </div>
+    <!--base container end-->
+    
+</body>
+</html>

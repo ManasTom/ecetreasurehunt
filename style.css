@@ -1,0 +1,156 @@
+* {
+
+    margin: 0;
+    padding: 0;
+  }
+
+.container{
+    background: #fff;
+}
+
+.header{
+    background: rgb(2, 0, 9);
+    width: auto;
+    height: 70px;
+    
+}
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #fff;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.bodycontainer{
+    width: auto;
+    height: 900px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.levelbox{
+    width: auto;
+    height: 100px;
+    background: #00ff88;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+
+.leveltext{
+    width: auto;
+    height: 50px;
+    background: #00ff88;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 40px;
+    text-shadow: 2px 5px 10px rgb(0, 0, 0);
+}
+
+.welcometext{
+    width: auto;
+    height: 50px;
+    background: #00ff88;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 20px;
+}
+
+.logocontainer{
+    width: auto;
+    height: 70px;
+    background: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+   
+
+}
+
+.hintbox{
+    width: 100%;
+    height: 310px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 10px;
+
+}
+
+.mediabox{
+    width: 100%;
+    height: 340px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 10px;
+}
+.quizcontainer{
+    width: auto;
+    height: 450px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 10px;
+    background: #00ff88;
+    border-radius: 10px;
+}
+
+.questionbox{
+    width: auto;
+    height: 50px;
+    background: #00ff88;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 20px;
+    
+}
+
+.anwerbox{
+    width: auto;
+    height: 40px;
+    background: #00ff88;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 20px;
+}
+
+.ipanswer{
+    align-self: auto;
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#ipanswer1{
+    align-self: auto;
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+
+}
+
+.submitbox{
+    
+    width: 100%;
+    height: auto;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.submitbutton{
+    background: linear-gradient(to right, rgb(0, 136, 255) , #00ff88, rgb(0, 136, 255));
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    
+}
