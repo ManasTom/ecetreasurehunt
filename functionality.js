@@ -1,7 +1,7 @@
 function ip1() {
     var input1 = document.getElementById("ipanswer1").value;
 
-    if(input1 == "QWE"||input1 == "RRT"){
+    if(input1 == "bf6tr"||input1 == "codeadmin"){
         window.location.href = "level1.html"
     }
     else{
@@ -12,7 +12,7 @@ function ip1() {
 function ipl1() {
     var inputl1 = document.getElementById("ipanswerl1").value;
 
-    if(inputl1 == "code1"){
+    if(inputl1 == "frt55"||inputl1 == "codeadmin"){
         window.location.href = "level2.html"
     }
     else{
@@ -23,7 +23,7 @@ function ipl1() {
 function ipl2() {
     var inputl2 = document.getElementById("ipanswerl2").value;
 
-    if(inputl2 == "code2"){
+    if(inputl2 == "lko98"||inputl2 == "codeadmin"){
         window.location.href = "level3.html"
     }
     else{
@@ -34,7 +34,7 @@ function ipl2() {
 function ipl3() {
     var inputl3 = document.getElementById("ipanswerl3").value;
 
-    if(inputl3 == "code3"){
+    if(inputl3 == "xde3w"||inputl3 == "codeadmin"){
         window.location.href = "level4.html"
     }
     else{
@@ -45,7 +45,7 @@ function ipl3() {
 function ipl4() {
     var inputl4 = document.getElementById("ipanswerl4").value;
 
-    if(inputl4 == "code4"){
+    if(inputl4 == "jut0e"||inputl4 == "codeadmin"){
         window.location.href = "level5.html"
     }
     else{
@@ -56,7 +56,7 @@ function ipl4() {
 function ipl5() {
     var inputl5 = document.getElementById("ipanswerl5").value;
 
-    if(inputl5 == "code5"){
+    if(inputl5 == "tuv6y"||inputl5 == "codeadmin"){
         window.location.href = "level6.html"
     }
     else{
@@ -67,7 +67,7 @@ function ipl5() {
 function ipl6() {
     var inputl6 = document.getElementById("ipanswerl6").value;
 
-    if(inputl6 == "code6"){
+    if(inputl6 == "uix2r"||inputl6 == "codeadmin"){
         window.location.href = "level7.html"
     }
     else{
@@ -78,7 +78,7 @@ function ipl6() {
 function ipl7() {
     var inputl7 = document.getElementById("ipanswerl7").value;
 
-    if(inputl7 == "code7"){
+    if(inputl7 == "code7"||inputl7 == "codeadmin"){
         window.location.href = "finish.html"
     }
     else{
