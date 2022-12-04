@@ -78,7 +78,7 @@ function ipl6() {
 function ipl7() {
     var inputl7 = document.getElementById("ipanswerl7").value;
 
-    if(inputl7 == "code7"||inputl7 == "codeadmin"){
+    if(inputl7 == "rtx4d"||inputl7 == "codeadmin"){
         window.location.href = "finish.html"
     }
     else{
